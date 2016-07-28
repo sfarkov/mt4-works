@@ -1,2 +1,3 @@
-# mt4-works
-EAs, Indexes, Scripts for metatrader
+# mt4-works: Collection of my ExpertAdvisers, Indexes, Scripts for metatrader
+
+
